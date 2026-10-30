@@ -1,0 +1,20 @@
+{
+  "name": "proprock",
+  "owner": {
+    "name": "proprock"
+  },
+  "metadata": {
+    "description": "Claude Code plugins maintained by proprock"
+  },
+  "plugins": [
+    {
+      "name": "kaboost",
+      "source": {
+        "source": "git-subdir",
+        "url": "proprock/kaBoost",
+        "path": "plugins/kaboost"
+      },
+      "description": "Portable engineering rules and focused workflows"
+    }
+  ]
+}
