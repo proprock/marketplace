@@ -3,7 +3,7 @@
 Catalog of Claude Code plugins. Each plugin lives in its own repository; this repository only lists where to fetch it.
 
 ```text
-claude plugin marketplace add proprock/marketplace
+claude plugin marketplace add https://github.com/proprock/marketplace.git
 claude plugin install kaboost@proprock
 ```
 
