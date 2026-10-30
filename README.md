@@ -20,7 +20,7 @@ claude plugin marketplace remove proprock
 
 | Plugin | Source repository | Plugin path |
 | :- | :- | :- |
-| `kaboost` | [proprock/kaBoost](https://github.com/proprock/kaBoost) | `plugins/kaboost`, pinned to `v0.1.0-rc.2` (release candidate) |
+| `kaboost` | [proprock/kaBoost](https://github.com/proprock/kaBoost) | `plugins/kaboost`, pinned to `v0.1.0-rc.3` (release candidate) |
 
 ## Adding a plugin
 
