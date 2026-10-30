@@ -11,7 +11,7 @@
       "name": "kaboost",
       "source": {
         "source": "git-subdir",
-        "url": "proprock/kaBoost",
+        "url": "https://github.com/proprock/kaBoost.git",
         "path": "plugins/kaboost"
       },
       "description": "Portable engineering rules and focused workflows"
