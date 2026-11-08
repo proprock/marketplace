@@ -13,8 +13,8 @@
         "source": "git-subdir",
         "url": "https://github.com/proprock/kaBoost.git",
         "path": "plugins/kaboost",
-        "ref": "v0.1.1",
-        "sha": "0f96da693e4b2a719444263a0666a738d6c8e8e8"
+        "ref": "v0.2.0",
+        "sha": "9c29997939346caf67ecd67e2d1b0d03839129b4"
       },
       "description": "Portable engineering rules and focused workflows"
     }
