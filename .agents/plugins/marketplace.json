@@ -1,0 +1,23 @@
+{
+  "name": "proprock",
+  "interface": {
+    "displayName": "proprock"
+  },
+  "plugins": [
+    {
+      "name": "kaboost",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/proprock/kaBoost.git",
+        "path": "./adapters/codex/package/kaboost",
+        "ref": "v0.2.0",
+        "sha": "9c29997939346caf67ecd67e2d1b0d03839129b4"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
