@@ -7,6 +7,7 @@ Catalog of Claude Code and Codex plugins. Each plugin lives in its own repositor
 ```text
 claude plugin marketplace add https://github.com/proprock/marketplace.git
 claude plugin install kaboost@proprock
+claude plugin install aherald@proprock   # optional; needs the aHerald program
 ```
 
 Update and removal:
@@ -40,6 +41,7 @@ codex plugin marketplace remove proprock
 | :- | :- | :- |
 | `kaboost` (Claude Code) | [proprock/kaBoost](https://github.com/proprock/kaBoost) | `plugins/kaboost`, pinned to `v0.2.0` (release) |
 | `kaboost` (Codex) | [proprock/kaBoost](https://github.com/proprock/kaBoost) | `adapters/codex/package/kaboost`, pinned to `v0.2.0` (release) |
+| `aherald` (Claude Code) | [proprock/aHerald](https://github.com/proprock/aHerald) | `plugins/aherald`, pinned to `v0.16.0` (release); the pin is updated by aHerald's release workflow |
 
 ## Adding a plugin
 
