@@ -24,8 +24,8 @@
         "source": "git-subdir",
         "url": "https://github.com/proprock/aHerald.git",
         "path": "plugins/aherald",
-        "ref": "v0.17.0",
-        "sha": "a9bf59206b7dae894205e5f3212652297614287d"
+        "ref": "v0.18.0",
+        "sha": "e9b15ab58060e9ac28b3db527c4c7efb5f51d204"
       },
       "description": "Hooks that show an aHerald card when Claude Code finishes, needs permission or fails"
     }
